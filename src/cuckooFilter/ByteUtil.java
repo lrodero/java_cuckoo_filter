@@ -1,10 +1,9 @@
 /*
- * Copyright Gradiant 2014
+ * Copyright Gradiant (http://www.gradiant.org) 2014
  * 
  * APACHE LICENSE v2.0
  * 
- * Author: Dr. Luis Rodero-Merino
- * 
+ * Author: Dr. Luis Rodero-Merino (lrodero@gradiant.org)
  */
 package cuckooFilter;
 
