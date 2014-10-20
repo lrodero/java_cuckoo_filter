@@ -5,7 +5,7 @@
  * 
  * Author: Dr. Luis Rodero-Merino (lrodero@gradiant.org)
  */
-package cuckooFilter;
+package org.gradiant.cuckooFilter;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
