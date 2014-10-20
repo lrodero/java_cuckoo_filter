@@ -4,7 +4,6 @@
  * APACHE LICENSE v2.0
  * 
  * Author: Dr. Luis Rodero-Merino (lrodero@gradiant.org)
- * 
  */
 package cuckooFilter;
 
